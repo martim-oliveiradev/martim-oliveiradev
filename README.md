@@ -35,4 +35,4 @@ Sou developer full stack júnior em Lisboa. Construo aplicações web de ponta a
 
 <br/>
 
-<a href="https://martim.dev"><img src="./assets/footer-v2.svg" width="100%" alt="A maior parte dos meus projetos está em repositórios privados. Vamos construir algo juntos? martim.dev" /></a>
+<a href="https://martim.dev"><img src="./assets/footer-v3.svg" width="100%" alt="A maior parte dos meus projetos está em repositórios privados. Vamos construir algo juntos? martim.dev" /></a>
