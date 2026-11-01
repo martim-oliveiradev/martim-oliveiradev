@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="250" viewBox="0 0 580 250">
+  <defs>
+    <radialGradient id="g" cx="1" cy="0" r="1"><stop offset="0" stop-color="#34d399" stop-opacity="0.28"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></radialGradient>
+    <clipPath id="r"><rect width="580" height="250" rx="18"/></clipPath>
+    <style>.s{font-family:'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,Menlo,monospace}</style>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="580" height="250" fill="#0b1020"/>
+    <rect width="580" height="250" fill="url(#g)"/>
+    <rect width="580" height="3" fill="#34d399"/>
+  </g>
+  <rect x="0.5" y="0.5" width="579" height="249" rx="18" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
+  <text class="m" x="32" y="44" font-size="12" font-weight="700" letter-spacing="2" fill="#34d399">IA · CHATBOT</text>
+  <text class="m" x="548" y="44" font-size="12" text-anchor="end" fill="#64748b">testado com utilizadores reais</text>
+  <text class="s" x="32" y="84" font-size="28" font-weight="700" fill="#f8fafc">Agente de loja</text>
+  <g class="s" font-size="15" fill="#94a3b8"><text x="32" y="118">Assistente de atendimento com IA que</text><text x="32" y="140">responde a clientes no Telegram, com</text><text x="32" y="162">integração com WhatsApp preparada.</text></g>
+  <g class="m" font-size="13" font-weight="600"><rect x="32" y="196" width="82.80000000000001" height="28" rx="7" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.1"/><text x="73.4" y="215" text-anchor="middle" fill="#cbd5e1">Node.js</text><rect x="122.80000000000001" y="196" width="108" height="28" rx="7" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.1"/><text x="176.8" y="215" text-anchor="middle" fill="#cbd5e1">TypeScript</text><rect x="238.8" y="196" width="74.4" height="28" rx="7" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.1"/><text x="276" y="215" text-anchor="middle" fill="#cbd5e1">Gemini</text></g>
+</svg>

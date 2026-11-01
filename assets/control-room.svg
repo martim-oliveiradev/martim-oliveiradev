@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="250" viewBox="0 0 580 250">
+  <defs>
+    <radialGradient id="g" cx="1" cy="0" r="1"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.28"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+    <clipPath id="r"><rect width="580" height="250" rx="18"/></clipPath>
+    <style>.s{font-family:'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,Menlo,monospace}</style>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="580" height="250" fill="#0b1020"/>
+    <rect width="580" height="250" fill="url(#g)"/>
+    <rect width="580" height="3" fill="#22d3ee"/>
+  </g>
+  <rect x="0.5" y="0.5" width="579" height="249" rx="18" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
+  <text class="m" x="32" y="44" font-size="12" font-weight="700" letter-spacing="2" fill="#22d3ee">DESKTOP</text>
+  <text class="m" x="548" y="44" font-size="12" text-anchor="end" fill="#64748b">projeto pessoal</text>
+  <text class="s" x="32" y="84" font-size="28" font-weight="700" fill="#f8fafc">Control Room</text>
+  <g class="s" font-size="15" fill="#94a3b8"><text x="32" y="118">Controla a casa a partir do PC: TV por ADB,</text><text x="32" y="140">luzes AwoX por Bluetooth e monitorização</text><text x="32" y="162">do sistema em tempo real.</text></g>
+  <g class="m" font-size="13" font-weight="600"><rect x="32" y="196" width="91.2" height="28" rx="7" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.1"/><text x="77.6" y="215" text-anchor="middle" fill="#cbd5e1">Electron</text><rect x="131.2" y="196" width="66" height="28" rx="7" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.1"/><text x="164.2" y="215" text-anchor="middle" fill="#cbd5e1">React</text><rect x="205.2" y="196" width="108" height="28" rx="7" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.1"/><text x="259.2" y="215" text-anchor="middle" fill="#cbd5e1">TypeScript</text><rect x="321.2" y="196" width="91.2" height="28" rx="7" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.1"/><text x="366.8" y="215" text-anchor="middle" fill="#cbd5e1">Three.js</text></g>
+</svg>

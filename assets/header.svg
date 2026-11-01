@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070a13"/>
+      <stop offset="1" stop-color="#0d1222"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#6366f1" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.6" stop-color="#c7d2fe"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+    <clipPath id="r"><rect width="1200" height="400" rx="24"/></clipPath>
+    <style>
+      .sans{font-family:'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif}
+      .mono{font-family:ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,Menlo,monospace}
+      .float{animation:float 9s ease-in-out infinite}
+      .float2{animation:float 11s ease-in-out infinite reverse}
+      @keyframes float{0%,100%{transform:translate(0,0)}50%{transform:translate(30px,-18px)}}
+      .l{opacity:0;animation:in .4s ease forwards}
+      .l1{animation-delay:.3s}.l2{animation-delay:.9s}.l3{animation-delay:1.5s}.l4{animation-delay:2.1s}.l5{animation-delay:2.7s}.l6{animation-delay:3.3s}.l7{animation-delay:3.9s}
+      @keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+      .cur{animation:blink 1s steps(1) infinite}
+      @keyframes blink{50%{opacity:0}}
+      .pulse{animation:pulse 2s ease-in-out infinite}
+      @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+    </style>
+  </defs>
+
+  <g clip-path="url(#r)">
+    <rect width="1200" height="400" fill="url(#bg)"/>
+    <rect width="1200" height="400" fill="url(#grid)"/>
+    <circle class="float" cx="230" cy="80" r="260" fill="url(#glow1)"/>
+    <circle class="float2" cx="980" cy="360" r="240" fill="url(#glow2)"/>
+
+    <!-- left -->
+    <g class="sans">
+      <rect x="72" y="86" width="196" height="30" rx="15" fill="#22c55e" fill-opacity="0.1" stroke="#22c55e" stroke-opacity="0.35"/>
+      <circle class="pulse" cx="92" cy="101" r="5" fill="#22c55e"/>
+      <text x="106" y="106" font-size="14" font-weight="600" fill="#86efac">Open to work · Lisboa</text>
+
+      <text x="70" y="186" font-size="64" font-weight="800" fill="url(#name)" letter-spacing="-1.5">Martim Oliveira</text>
+      <text x="72" y="232" font-size="24" font-weight="500" fill="#cbd5e1">Junior Full Stack Developer</text>
+      <text x="72" y="270" font-size="17" fill="#94a3b8">Aplicações web com React, Next.js e TypeScript,</text>
+      <text x="72" y="295" font-size="17" fill="#94a3b8">com IA integrada quando resolve um problema real.</text>
+
+      <g class="mono" font-size="14" font-weight="600">
+        <rect x="72" y="322" width="84" height="30" rx="8" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.1"/>
+        <text x="114" y="342" text-anchor="middle" fill="#7dd3fc">React</text>
+        <rect x="166" y="322" width="96" height="30" rx="8" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.1"/>
+        <text x="214" y="342" text-anchor="middle" fill="#e2e8f0">Next.js</text>
+        <rect x="272" y="322" width="124" height="30" rx="8" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.1"/>
+        <text x="334" y="342" text-anchor="middle" fill="#93c5fd">TypeScript</text>
+        <rect x="406" y="322" width="110" height="30" rx="8" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.1"/>
+        <text x="461" y="342" text-anchor="middle" fill="#6ee7b7">Supabase</text>
+      </g>
+    </g>
+
+    <!-- terminal -->
+    <g transform="translate(700 70)">
+      <rect width="430" height="270" rx="16" fill="#0b1020" fill-opacity="0.85" stroke="#ffffff" stroke-opacity="0.1"/>
+      <path d="M16 0h398a16 16 0 0 1 16 16v24H0V16A16 16 0 0 1 16 0z" fill="#ffffff" fill-opacity="0.04"/>
+      <circle cx="22" cy="20" r="6" fill="#f87171"/>
+      <circle cx="42" cy="20" r="6" fill="#fbbf24"/>
+      <circle cx="62" cy="20" r="6" fill="#34d399"/>
+      <text class="mono" x="215" y="25" font-size="13" fill="#64748b" text-anchor="middle">~/martim.dev</text>
+
+      <g class="mono" font-size="15">
+        <text class="l l1" x="22" y="74"><tspan fill="#818cf8">❯</tspan><tspan fill="#e2e8f0"> whoami</tspan></text>
+        <text class="l l2" x="22" y="100" fill="#94a3b8">martim · full stack dev · PT</text>
+        <text class="l l3" x="22" y="136"><tspan fill="#818cf8">❯</tspan><tspan fill="#e2e8f0"> cat focus.txt</tspan></text>
+        <text class="l l4" x="22" y="162" fill="#94a3b8">web apps · IA (Gemini API) · Electron</text>
+        <text class="l l5" x="22" y="198"><tspan fill="#818cf8">❯</tspan><tspan fill="#e2e8f0"> status</tspan></text>
+        <text class="l l6" x="22" y="224"><tspan fill="#22c55e">●</tspan><tspan fill="#94a3b8"> a construir e à procura de equipa</tspan></text>
+        <g class="l l7"><text x="22" y="254" fill="#818cf8">❯</text><rect class="cur" x="40" y="241" width="9" height="17" fill="#c7d2fe"/></g>
+      </g>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="399" rx="24" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+</svg>
