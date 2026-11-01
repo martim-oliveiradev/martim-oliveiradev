@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="256" viewBox="0 0 1200 256">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6366f1" stop-opacity="0.18"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></linearGradient>
+    <style>.s{font-family:'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,Menlo,monospace}.p{animation:p 2s ease-in-out infinite}@keyframes p{50%{opacity:.3}}</style>
+  </defs>
+  <rect x="0.5" y="0.5" width="1199" height="255" rx="18" fill="#0b1020" stroke="#ffffff" stroke-opacity="0.1"/>
+  <rect x="1" y="1" width="600" height="254" rx="18" fill="url(#g)"/>
+  <circle class="p" cx="34" cy="38" r="5" fill="#22c55e"/>
+  <text class="m" x="50" y="43" font-size="13" font-weight="700" letter-spacing="2" fill="#a5b4fc">NESTE MOMENTO</text>
+  <rect x="28" y="66" width="3" height="30" rx="1.5" fill="#22c55e"/>
+  <text class="m" x="46" y="86" font-size="14" font-weight="700" fill="#22c55e">A construir</text>
+  <text class="s" x="190" y="86" font-size="16" fill="#cbd5e1">novos projetos full stack com Next.js, Prisma e PostgreSQL</text>
+  <rect x="28" y="110" width="3" height="30" rx="1.5" fill="#818cf8"/>
+  <text class="m" x="46" y="130" font-size="14" font-weight="700" fill="#818cf8">A aprender</text>
+  <text class="s" x="190" y="130" font-size="16" fill="#cbd5e1">testes automáticos, segurança em apps web e boas práticas de TypeScript</text>
+  <rect x="28" y="154" width="3" height="30" rx="1.5" fill="#f472b6"/>
+  <text class="m" x="46" y="174" font-size="14" font-weight="700" fill="#f472b6">Freelance</text>
+  <text class="s" x="190" y="174" font-size="16" fill="#cbd5e1">sites e aplicações à medida para pequenos negócios</text>
+  <rect x="28" y="198" width="3" height="30" rx="1.5" fill="#22d3ee"/>
+  <text class="m" x="46" y="218" font-size="14" font-weight="700" fill="#22d3ee">À procura</text>
+  <text class="s" x="190" y="218" font-size="16" fill="#cbd5e1">da primeira equipa como Junior Full Stack Developer</text>
+</svg>

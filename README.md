@@ -10,6 +10,8 @@
 
 Sou developer full stack júnior em Lisboa. Construo aplicações web de ponta a ponta, da base de dados à interface, e uso IA quando acrescenta valor real ao produto. Aprendo de forma autodidata, trabalho como freelancer para pequenos negócios e estou à procura de uma equipa onde possa crescer.
 
+<img src="./assets/now.svg" width="100%" alt="Neste momento: a construir projetos full stack, a aprender testes e segurança, freelance para pequenos negócios, à procura da primeira equipa" />
+
 <br/>
 
 ## Projetos
@@ -31,10 +33,8 @@ Sou developer full stack júnior em Lisboa. Construo aplicações web de ponta a
 
 ## Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,tailwind,supabase,postgres,prisma,electron,git,vercel&perline=11" />
-</p>
+<img src="./assets/stack.svg" width="100%" alt="Frontend: React, Next.js, TypeScript, Tailwind CSS, Three.js · Backend e dados: Node.js, PostgreSQL, Supabase, Prisma, Zod · IA: Gemini API, streaming, bots de Telegram, Claude Code · Desktop e tools: Electron, ADB, Git, Vercel, VS Code" />
 
 <br/>
 
-<p align="center"><sub>Disponível para oportunidades júnior · <a href="https://martim.dev">martim.dev</a></sub></p>
+<a href="https://martim.dev"><img src="./assets/footer.svg" width="100%" alt="Vamos construir algo juntos? martim.dev" /></a>

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+  <defs><style>.s{font-family:'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,Menlo,monospace}</style></defs>
+  <g>
+    <rect x="0.5" y="0.5" width="278" height="329" rx="18" fill="#0b1020" stroke="#ffffff" stroke-opacity="0.1"/>
+    <rect x="20" y="0" width="40" height="3" fill="#818cf8"/>
+    <text class="m" x="20" y="46" font-size="12" font-weight="700" letter-spacing="2" fill="#818cf8">FRONTEND</text>
+    <rect x="20" y="74" width="239" height="36" rx="9" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.07"/>
+    <circle cx="40" cy="92" r="5" fill="#61dafb"/>
+    <text class="s" x="56" y="97" font-size="15" fill="#e2e8f0">React</text>
+<rect x="20" y="120" width="239" height="36" rx="9" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.07"/>
+    <circle cx="40" cy="138" r="5" fill="#ffffff"/>
+    <text class="s" x="56" y="143" font-size="15" fill="#e2e8f0">Next.js</text>
+<rect x="20" y="166" width="239" height="36" rx="9" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.07"/>
+    <circle cx="40" cy="184" r="5" fill="#3178c6"/>
+    <text class="s" x="56" y="189" font-size="15" fill="#e2e8f0">TypeScript</text>
+<rect x="20" y="212" width="239" height="36" rx="9" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.07"/>
+    <circle cx="40" cy="230" r="5" fill="#38bdf8"/>
+    <text class="s" x="56" y="235" font-size="15" fill="#e2e8f0">Tailwind CSS</text>
+<rect x="20" y="258" width="239" height="36" rx="9" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.07"/>
+    <circle cx="40" cy="276" r="5" fill="#e2e8f0"/>
+    <text class="s" x="56" y="281" font-size="15" fill="#e2e8f0">Three.js</text>
+  </g>
+<g>
+    <rect x="307.5" y="0.5" width="278" height="329" rx="18" fill="#0b1020" stroke="#ffffff" stroke-opacity="0.1"/>
+    <rect x="327" y="0" width="40" height="3" fill="#f472b6"/>
+    <text class="m" x="327" y="46" font-size="12" font-weight="700" letter-spacing="2" fill="#f472b6">BACKEND &amp; DADOS</text>
+    <rect x="327" y="74" width="239" height="36" rx="9" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.07"/>
+    <circle cx="347" cy="92" r="5" fill="#5fa04e"/>
+    <text class="s" x="363" y="97" font-size="15" fill="#e2e8f0">Node.js</text>
+<rect x="327" y="120" width="239" height="36" rx="9" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.07"/>
+    <circle cx="347" cy="138" r="5" fill="#4169e1"/>
+    <text class="s" x="363" y="143" font-size="15" fill="#e2e8f0">PostgreSQL</text>
+<rect x="327" y="166" width="239" height="36" rx="9" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.07"/>
+    <circle cx="347" cy="184" r="5" fill="#3ecf8e"/>
+    <text class="s" x="363" y="189" font-size="15" fill="#e2e8f0">Supabase</text>
+<rect x="327" y="212" width="239" height="36" rx="9" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.07"/>
+    <circle cx="347" cy="230" r="5" fill="#a5b4fc"/>
+    <text class="s" x="363" y="235" font-size="15" fill="#e2e8f0">Prisma</text>
+<rect x="327" y="258" width="239" height="36" rx="9" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.07"/>
+    <circle cx="347" cy="276" r="5" fill="#3068b7"/>
+    <text class="s" x="363" y="281" font-size="15" fill="#e2e8f0">Zod</text>
+  </g>
+<g>
+    <rect x="614.5" y="0.5" width="278" height="329" rx="18" fill="#0b1020" stroke="#ffffff" stroke-opacity="0.1"/>
+    <rect x="634" y="0" width="40" height="3" fill="#34d399"/>
+    <text class="m" x="634" y="46" font-size="12" font-weight="700" letter-spacing="2" fill="#34d399">IA</text>
+    <rect x="634" y="74" width="239" height="36" rx="9" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.07"/>
+    <circle cx="654" cy="92" r="5" fill="#8e75ff"/>
+    <text class="s" x="670" y="97" font-size="15" fill="#e2e8f0">Gemini API</text>
+<rect x="634" y="120" width="239" height="36" rx="9" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.07"/>
+    <circle cx="654" cy="138" r="5" fill="#22d3ee"/>
+    <text class="s" x="670" y="143" font-size="15" fill="#e2e8f0">Respostas em streaming</text>
+<rect x="634" y="166" width="239" height="36" rx="9" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.07"/>
+    <circle cx="654" cy="184" r="5" fill="#26a5e4"/>
+    <text class="s" x="670" y="189" font-size="15" fill="#e2e8f0">Bots de Telegram</text>
+<rect x="634" y="212" width="239" height="36" rx="9" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.07"/>
+    <circle cx="654" cy="230" r="5" fill="#d97757"/>
+    <text class="s" x="670" y="235" font-size="15" fill="#e2e8f0">Claude Code</text>
+  </g>
+<g>
+    <rect x="921.5" y="0.5" width="278" height="329" rx="18" fill="#0b1020" stroke="#ffffff" stroke-opacity="0.1"/>
+    <rect x="941" y="0" width="40" height="3" fill="#22d3ee"/>
+    <text class="m" x="941" y="46" font-size="12" font-weight="700" letter-spacing="2" fill="#22d3ee">DESKTOP &amp; TOOLS</text>
+    <rect x="941" y="74" width="239" height="36" rx="9" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.07"/>
+    <circle cx="961" cy="92" r="5" fill="#9feaf9"/>
+    <text class="s" x="977" y="97" font-size="15" fill="#e2e8f0">Electron</text>
+<rect x="941" y="120" width="239" height="36" rx="9" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.07"/>
+    <circle cx="961" cy="138" r="5" fill="#3ddc84"/>
+    <text class="s" x="977" y="143" font-size="15" fill="#e2e8f0">ADB</text>
+<rect x="941" y="166" width="239" height="36" rx="9" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.07"/>
+    <circle cx="961" cy="184" r="5" fill="#f05032"/>
+    <text class="s" x="977" y="189" font-size="15" fill="#e2e8f0">Git &amp; GitHub</text>
+<rect x="941" y="212" width="239" height="36" rx="9" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.07"/>
+    <circle cx="961" cy="230" r="5" fill="#ffffff"/>
+    <text class="s" x="977" y="235" font-size="15" fill="#e2e8f0">Vercel</text>
+<rect x="941" y="258" width="239" height="36" rx="9" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.07"/>
+    <circle cx="961" cy="276" r="5" fill="#007acc"/>
+    <text class="s" x="977" y="281" font-size="15" fill="#e2e8f0">VS Code</text>
+  </g>
+</svg>
