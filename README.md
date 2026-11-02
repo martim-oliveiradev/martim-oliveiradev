@@ -12,23 +12,6 @@ Sou developer full stack júnior em Lisboa. Construo aplicações web de ponta a
 
 <br/>
 
-## Projetos
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://atlas-ai-martim.vercel.app"><img src="./assets/atlas.svg" width="100%" alt="Atlas AI" /></a></td>
-    <td width="50%"><img src="./assets/prospecta.svg" width="100%" alt="Prospecta" /></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/control-room.svg" width="100%" alt="Control Room" /></td>
-    <td width="50%"><img src="./assets/agente.svg" width="100%" alt="Agente de loja com IA" /></td>
-  </tr>
-</table>
-
-<p align="center"><sub>Atlas AI: <a href="https://atlas-ai-martim.vercel.app">demo</a> · <a href="https://github.com/martim-oliveiradev/atlas-ai">código</a></sub></p>
-
-<br/>
-
 ## Stack
 
 <img src="./assets/stack-v2.svg" width="100%" alt="Linguagens: TypeScript, JavaScript, Python, Lua, PHP · Frontend: React, Next.js, Tailwind CSS, Three.js · Backend e dados: Node.js, PostgreSQL, Supabase, Prisma, Zod · IA: Gemini API, Telegram, Claude Code · Desktop e redes: Electron, ADB, Tailscale · Tools e deploy: Git, GitHub, Vercel" />
