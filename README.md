@@ -31,7 +31,7 @@ Sou developer full stack júnior em Lisboa. Construo aplicações web de ponta a
 
 ## Stack
 
-<img src="./assets/stack.svg" width="100%" alt="Frontend: React, Next.js, TypeScript, Tailwind CSS, Three.js · Backend e dados: Node.js, PostgreSQL, Supabase, Prisma, Zod · IA: Gemini API, Telegram, Claude Code · Desktop e tools: Electron, ADB, Git, GitHub, Vercel" />
+<img src="./assets/stack-v2.svg" width="100%" alt="Linguagens: TypeScript, JavaScript, Python, Lua, PHP · Frontend: React, Next.js, Tailwind CSS, Three.js · Backend e dados: Node.js, PostgreSQL, Supabase, Prisma, Zod · IA: Gemini API, Telegram, Claude Code · Desktop e redes: Electron, ADB, Tailscale · Tools e deploy: Git, GitHub, Vercel" />
 
 <br/>
 
